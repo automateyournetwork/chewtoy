@@ -1,5 +1,5 @@
 # chewtoy
-Mind Mapping Planet Earth using Python, Jinja2, and restcountries.com
+Mind Mapping Dogs with the Dogs CEO API
 
 ## Instructions
 
