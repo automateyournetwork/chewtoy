@@ -1,0 +1,14 @@
+# frise
+## bichon
+## Photos
+### [Link](https://images.dog.ceo/breeds/frise-bichon/1.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/2.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/3.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/4.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/5.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/6.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/7.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/jh-ezio-1.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/jh-ezio-2.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/jh-ezio-3.jpg)
+### [Link](https://images.dog.ceo/breeds/frise-bichon/stevebaxter_bichon_frise.jpg)

@@ -1,0 +1,11 @@
+# All Dogs
+{%- for dog,value in dogsList.items() %}
+## {{ dog }}
+{%-     for subdog in value if value %}
+### {{ subdog }}
+{%-     endfor %}
+### Photos
+{%-     for photo in dogsPhotoList if dog in photo %}
+#### [Link]({{ photo }})
+{%-     endfor %}
+{%- endfor %}

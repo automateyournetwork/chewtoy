@@ -1,0 +1,8 @@
+# {{ singleDog }}
+{%- for type in subDog if subDog %}
+## {{ type }}
+{%- endfor %}
+## Photos
+{%- for photo in dogsPhotoList %}
+### [Link]({{ photo }})
+{%- endfor %}
