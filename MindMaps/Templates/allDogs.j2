@@ -5,7 +5,11 @@
 ### {{ subdog }}
 {%-     endfor %}
 ### Photos
-{%-     for photo in dogsPhotoList if dog in photo %}
-#### [Link]({{ photo }})
+{%-     for photo in photos %}
+{%-         for url in photo %}
+{%-             if dog in url %}
+#### [Link]({{ url }})
+{%-             endif %}
+{%-         endfor %}
 {%-     endfor %}
 {%- endfor %}
